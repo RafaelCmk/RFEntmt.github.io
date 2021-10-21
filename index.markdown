@@ -1,7 +1,3 @@
----
-title: Privacy Policy
----
-
 **Privacy Policy**
 
 Roxforge Games built the Estilo BR app as an Ad Supported app. This SERVICE is provided by Roxforge Games at no cost and is intended for use as is.
