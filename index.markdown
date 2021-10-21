@@ -27,9 +27,9 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 **Data Deletion**
 
-If you wish to delete your data, please read the following instructions
+If you wish to delete your data, please follow the link bellow for the instructions
 
-[Instructions](/facebook_data_deletion_instructions.markdown)
+* [Instructions](/facebook_data_deletion_instructions.markdown)
 
 **Cookies**
 
